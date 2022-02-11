@@ -1,2 +1,3 @@
 # hello-world
-first chance
+first time on github
+tutorial 1
